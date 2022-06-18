@@ -1,0 +1,3 @@
+- 👋 Hi, I’m wang6125
+- 👀 I’m interested in control theory , digital signal processing and some other programing.
+- 🌱 I’m currently learning motor contron & driving knowledge and SAR radar design technology
